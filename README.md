@@ -1,5 +1,5 @@
 # Biblioteca
-json-server para utilizar uma api fake, Redux para armazenar as reservas, immer para trabalhar a quantidade dentro do redux.
+json-server para utilizar uma api fake, Redux para armazenar as reservas, immer para trabalhar a quantidade dentro do redux. redux-saga para utilizar requisições asyncronas
 
 # Getting Started with Create React App
 
